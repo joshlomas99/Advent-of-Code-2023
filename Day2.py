@@ -9,7 +9,7 @@ def get_input(input_file: str='Inputs/Day2_Inputs.txt') -> list:
         Input file detailing the games. Each game is listed with its ID number (e.g. 11 for
         Game 11: ...) followed by a semicolon-separated list of subsets of cubes that were
         revealed from the bag (like 3 red, 5 green, 4 blue).
-        The default is 'Inputs/Day1_Inputs.txt'.
+        The default is 'Inputs/Day2_Inputs.txt'.
 
     Returns
     -------
