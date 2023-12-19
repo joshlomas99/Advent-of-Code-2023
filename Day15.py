@@ -20,7 +20,8 @@ def time_function(func):
 
 def get_input(input_file: str='Inputs/Day15_Inputs.txt') -> list:
     """
-    Extracts a list of comma-separated instructions from an input file
+    Extracts a list of comma-separated instructions from an input file.
+    
     Parameters
     ----------
     input_file : str, optional
